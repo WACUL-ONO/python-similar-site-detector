@@ -1,0 +1,8 @@
+__pycache__
+text_classification/bitcoin_value
+text_classification/scraping_pickle_dir
+text_classification/twitter_scraping/twitter_access.py
+.DS_Store
+.idea
+.ipynb_checkpoints
+
